@@ -21,10 +21,15 @@ Task Requirements:
 >- It should expose a method called "mean" which should return the mean value (average value)
   of the numbers in the stack. Again, make it as fast as possible.
 
+- 3- Extra Points (optional):
+>- Prove why is your solution considered fast(er)?
+>- Answer: My solution is considered faster because its Big-O complexity is O(1).
+
 # Prerequisites:
 * Ruby version '2.5.1'
 
 # Test Classes:
+- Clone it.
 - Open your terminal.
 - Change directory to project directory.
 - Run `ruby test_stack.rb`
